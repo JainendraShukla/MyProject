@@ -1,2 +1,2 @@
 Creating this file to check the branching concept in github. Failed earlier try...
-Did the merge and branching now checking agin.
+Did the merge and branching now checking agin.did some final changes and now want to replace in master
